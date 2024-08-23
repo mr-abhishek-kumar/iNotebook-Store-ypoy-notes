@@ -1,71 +1,42 @@
-# Getting Started with Create React App
+# About the project :-
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
++ I have developed this project to store the notes online.
++ Using this app user can login and store their notes with category.
++ User can access their notes by loging in to this web app.
 
-## Available Scripts
+# How it is developed.......
+1. Frontend of this project is designed using **`React JS`**.
+2. And **`Express JS`** is used to create APIs.
+3. There are two man folders in this projects, one of which is for _frontend_ code and one another is for _backend_ code.
 
-In the project directory, you can run:
 
-### `npm start`
+# How to run this project on local system.....
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Step 1:-
++ First of all you you have to setup you development environment to run the javascript code on local system.
++ To set up the environment follow the steps:-
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Download NodeJs
+> [Download](https://download-nodejs.com) nodejs so that javascript code can be run on systen.
+### Step 2:-
++ Create a folder on system
 
-### `npm test`
+### Step 3:-
++ Clone this repository to get the code from github
++ To Clone this reposistory, open folder in command prompt and run these command one by one...
+1. ``` js
+     git clone https://github.com/mr-abhishek-kumar/inotebook.git
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# iNotebook-Store-ypoy-notes" 
+### Step 4:-
++ Run the code
+> To run the code follow the steps...
+>  1. Change directory
+>  ``` js
+>    cd iNotebook
+>  ```
+>  2. Open terminal in that directory
+>  3. Run the command in terminal
+>  ``` js
+>    npm run both
+>  ```
